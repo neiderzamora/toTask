@@ -1,0 +1,23 @@
+Reserva por pagina web
+Datos Usuario
+Nombre Completo
+Telefono
+Correo
+
+
+Sede
+Fecha Hora
+Numero Comensales
+Observaciones
+
+Tabla de Reserva
+
+ID|NumMesa|TiempoReservado|CantidadPersonas|Estado|
+
+Confirmacion al cliente
+En caso de cancela de reserva *Llamar*
+
+z7uJacB6vWY7C58
+adminlimoncello
+https://limoncello.com.co:2083/
+
